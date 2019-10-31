@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
         TextView test=(TextView) findViewById(R.id.textView);
         test.setText("ana are mere");
-
+        
     }
 }
